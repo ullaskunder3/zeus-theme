@@ -4,6 +4,10 @@
   "description": "Zeus theme for VS Code, Elevate your coding with vibrant harmony, enhanced readability. Embrace a visually divine workspace sparking creativity, making coding a joyful odyssey!",
   "version": "0.0.1",
   "publisher": "UllasKunder",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ullaskunder3/zeus-theme"
+  },
   "license": "MIT",
   "icon": "icon.png",
   "engines": {

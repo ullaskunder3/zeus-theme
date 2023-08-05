@@ -1,6 +1,6 @@
 # Zeus Theme
 
-<!-- ![Zeus Logo](zeus-logo.png) -->
+![zeus-theme-banner](https://github.com/ullaskunder3/zeus-theme/assets/66258652/3e1432f8-e43b-4fd5-aba0-cb8944d13538)
 
 ## Description
 

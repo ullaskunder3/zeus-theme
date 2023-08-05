@@ -1,5 +1,6 @@
 {
 	"name": "Zeus Lilac",
+	"type": "dark",
 	"colors": {
 	  "focusBorder": "#1f6feb",
 	  "foreground": "#c9d1d9",

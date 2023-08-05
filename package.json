@@ -1,14 +1,24 @@
 {
   "name": "zeus-vscode-theme",
-  "displayName": "zeus",
-  "description": "Theme 'Zeus' where gods of coding play! Elevate your coding with vibrant harmony, enhanced readability. Embrace a visually divine workspace sparking creativity, making coding a joyful odyssey!",
+  "displayName": "Zeus Theme",
+  "description": "Zeus theme for VS Code, Elevate your coding with vibrant harmony, enhanced readability. Embrace a visually divine workspace sparking creativity, making coding a joyful odyssey!",
   "version": "0.0.1",
-  "publisher": "ullas kunder",
+  "publisher": "UllasKunder",
+  "license": "MIT",
+  "icon": "icon.png",
   "engines": {
     "vscode": "^1.81.0"
   },
   "categories": [
     "Themes"
+  ],
+  "keywords": [
+    "theme",
+    "zeus",
+    "lilac",
+    "minimal",
+    "dark",
+    "protanopia"
   ],
   "contributes": {
     "themes": [

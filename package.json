@@ -1,0 +1,32 @@
+{
+  "name": "zeus-vscode-theme",
+  "displayName": "zeus",
+  "description": "Theme 'Zeus' where gods of coding play! Elevate your coding with vibrant harmony, enhanced readability. Embrace a visually divine workspace sparking creativity, making coding a joyful odyssey!",
+  "version": "0.0.1",
+  "publisher": "ullas kunder",
+  "engines": {
+    "vscode": "^1.81.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Zeus Yelo",
+        "uiTheme": "vs-dark",
+        "path": "./themes/zeus-color-theme.json"
+      },
+      {
+        "label": "Zeus Lilac",
+        "uiTheme": "vs-dark",
+        "path": "./themes/zeus-lilac-color-theme.json"
+      },
+      {
+        "label": "Zeus Turquoise",
+        "uiTheme": "vs-dark",
+        "path": "./themes/zeus-turquoise-color-theme.json"
+      }
+    ]
+  }
+}
